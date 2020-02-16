@@ -1,0 +1,49 @@
+@import "../../common/stylus/variable"
+@import "../../common/stylus/mixin"
+
+.suggest
+  height: 100%
+  overflow: hidden
+
+
+  .suggest-list
+    padding: 0 20px
+    background: #222222;
+
+    .suggest-item
+      display: flex
+      align-items: center
+      padding: 10px 0px
+      background-color: #333
+      //border-top:1px solid #535353
+
+
+    &:last-child .suggest-item:last-child
+      border-radius 0 0 6px 6px
+      padding-bottom 15px
+
+    .icon
+      flex: 0 0 30px
+      width: 30px
+      text-align: center;
+
+      [class^="icon-"]
+        font-size: 14px
+        color: $color-text-d
+
+    .name
+      flex: 1
+      font-size: $font-size-medium
+      color: $color-text-d
+      overflow: hidden
+      padding-left: 5px;
+
+
+      .text
+        no-wrap()
+
+  .no-result-wrapper
+    position: absolute
+    width: 100%
+    top: 50%
+    transform: translateY(-50%)

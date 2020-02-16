@@ -1,0 +1,27 @@
+@import "../../common/stylus/variable"
+
+.search-list
+  .search-item
+    display: flex
+    align-items: center
+    height: 35px
+    overflow: hidden
+
+    &.list-enter-active, &.list-leave-active
+      transition: all 0.1s
+
+    &.list-enter, &.list-leave-to
+      height: 0
+
+    .text
+      flex: 1
+      color: $color-text-l
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.36)
+
+    .icon
+      extend-click()
+
+      .icon-delete
+        font-size: $font-size-small
+        color: $color-text-d
