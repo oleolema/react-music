@@ -6,13 +6,49 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b1c876-2d5a-4d3e-b443-3060e93fb51d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Confirm/confirm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListView/listview.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Loading/loading.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MHeader/m-header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MusicList/music-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MySlider/slider.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Player/player.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Playlist/playlist.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProgressBar/progress-bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ProgressBarCircle/progress-circle.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Scroll/scroll.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchBox/search-box.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchList/search-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SongList/song-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Suggest/suggest.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Tab/tab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/DiscDetail/disc.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Rank/rank.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/RankDetail/top-list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Recommend/recommend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Search/search.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Singer/singer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/SingerDetail/singer-detail.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +92,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -232,6 +269,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="524" y="120" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1577091568303" />
+    <state x="511" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581824856729">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="511" y="270" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1581824856729" />
     <state x="372" y="10" key="CommitChangelistDialog2" timestamp="1576854768009">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -328,10 +369,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="321" y="154" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834@0.0.1536.834" timestamp="1578331493450" />
-    <state x="447" y="155" width="642" height="534" key="find.popup" timestamp="1579320393877">
+    <state x="420" y="159" width="782" height="604" key="find.popup" timestamp="1581824928727">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="447" y="155" width="642" height="534" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1579320393877" />
+    <state x="420" y="159" width="782" height="604" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1581824928727" />
     <state x="559" y="195" width="803" height="660" key="find.popup/0.0.1920.1050/-1920.0.1536.834@0.0.1920.1050" timestamp="1576573331145" />
     <state x="486" y="226" key="jetbrains.nodejs.interpreters-dialog" timestamp="1576686502650">
       <screen x="0" y="0" width="1536" height="834" />
