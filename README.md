@@ -2,11 +2,15 @@
 ## 介绍
 
 用于学习React知识，制作的一款移动端音乐播放器
-这个项目使用了前后端分离，前端使用React，后端使用SpringBoot。这是前端部分，后端请步至。
+这个项目使用了前后端分离，前端使用React，后端使用SpringBoot。这是前端部分，后端请步至[react music springboot](https://github.com/oleolema/react-music-springboot)
+
 
 ## 功能
 
-项目功能看图又快又清楚
+1. [项目演示](http://www.oleolema.cn/music)
+
+2. 看图又快又清楚   
+
 
 ![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/localhost_3000_(Galaxy%20S5)%20(1).png)
 
