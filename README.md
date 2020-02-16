@@ -1,3 +1,40 @@
+
+## 介绍
+
+用于学习React知识，制作的一款移动端音乐播放器
+这个项目使用了前后端分离，前端使用React，后端使用SpringBoot。这是前端部分，后端请步至。
+
+## 功能
+
+项目功能看图又快又清楚
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/localhost_3000_(Galaxy%20S5)%20(1).png)
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/www.oleolema.cn_music_(Galaxy%20S5)%20(1).png)
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/www.oleolema.cn_music_(Galaxy%20S5)%20(2).png)
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/www.oleolema.cn_music_(Galaxy%20S5)%20(3).png)
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/www.oleolema.cn_music_(Galaxy%20S5)%20(4).png)
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/www.oleolema.cn_music_(Galaxy%20S5)%20(5).png)
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/www.oleolema.cn_music_(Galaxy%20S5).png)
+
+![](https://raw.githubusercontent.com/oleolema/react-music/doc/doc/img/www.oleolema.cn_music_(Galaxy%20S5)%20(7).png)
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
